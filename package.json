@@ -1,0 +1,13 @@
+{
+  "name": "CRM-System",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "eslint": "^9.17.0"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2",
+    "typescript": "^5.7.2"
+  }
+}
